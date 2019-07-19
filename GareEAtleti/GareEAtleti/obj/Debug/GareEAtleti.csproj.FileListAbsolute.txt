@@ -1,0 +1,7 @@
+C:\Users\erika.marzagalli\source\repos\GareEAtleti\GareEAtleti\bin\Debug\GareEAtleti.exe.config
+C:\Users\erika.marzagalli\source\repos\GareEAtleti\GareEAtleti\bin\Debug\GareEAtleti.exe
+C:\Users\erika.marzagalli\source\repos\GareEAtleti\GareEAtleti\bin\Debug\GareEAtleti.pdb
+C:\Users\erika.marzagalli\source\repos\GareEAtleti\GareEAtleti\obj\Debug\GareEAtleti.csprojAssemblyReference.cache
+C:\Users\erika.marzagalli\source\repos\GareEAtleti\GareEAtleti\obj\Debug\GareEAtleti.csproj.CoreCompileInputs.cache
+C:\Users\erika.marzagalli\source\repos\GareEAtleti\GareEAtleti\obj\Debug\GareEAtleti.exe
+C:\Users\erika.marzagalli\source\repos\GareEAtleti\GareEAtleti\obj\Debug\GareEAtleti.pdb
